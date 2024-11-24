@@ -69,7 +69,7 @@ This repository contains the following files:
 
 - **Nidhi Saini**  
   Tableau Developer and Data Visualization Enthusiast  
-  [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Tableau Public](https://public.tableau.com/app/profile/nidhi.saini)
+  [LinkedIn](https://www.linkedin.com/in/nidhi-saini-073a7b16a/) | [Tableau Public](https://public.tableau.com/app/profile/nidhi.saini/vizzes)
 
 ---
 
